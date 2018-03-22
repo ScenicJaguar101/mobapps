@@ -1,0 +1,202 @@
+    {
+        "Alabama": {
+            "flower": "Camellia",
+            "bird": "Yellowhammer"
+        },
+        "Alaska": {
+            "flower": "Forget Me Not",
+            "bird": "Willow Ptarmigan"
+        },
+        "Arizona": {
+            "flower": "Saguaro Cactus Blossom",
+            "bird": "Cactus Wren"
+        },
+        "Arkansas": {
+            "flower": "Apple Blossom",
+            "bird": "Mockingbird"
+        },
+        "California": {
+            "flower": "California Poppy",
+            "bird": "California Valley Quail"
+        },
+        "Colorado": {
+            "flower": "Rocky Mountain Columbine",
+            "bird": "Lark Bunting"
+        },
+        "Connecticut": {
+            "flower": "Mountain laurel",
+            "bird": "Robin"
+        },
+        "Delaware": {
+            "flower": "Peach Blossom",
+            "bird": "Blue Hen Chicken"
+        },
+        "Florida": {
+            "flower": "Orange Blossom",
+            "bird": "Mockingbird"
+        },
+        "Georgia": {
+            "flower": "Cherokee Rose",
+            "bird": "Brown Thrasher"
+        },
+        "Hawaii": {
+            "flower": "Pua Aloalo",
+            "bird": "Nene"
+        },
+        "Idaho": {
+            "flower": "Syringa - Mock Orange",
+            "bird": "Mountain Bluebird"
+        },
+        "Illinois": {
+            "flower": "Purple Violet",
+            "bird": "Cardinal"
+        },
+        "Indiana": {
+            "flower": "Peony",
+            "bird": "Cardinal"
+        },
+        "Iowa": {
+            "flower": "Wild Prairie Rose",
+            "bird": "Eastern Goldfinch"
+        },
+        "Kansas": {
+            "flower": "Sunflower",
+            "bird": "Western Meadowlark"
+        },
+        "Kentucky": {
+            "flower": "Goldenrod",
+            "bird": "Cardinal"
+        },
+        "Louisiana": {
+            "flower": "Magnolia",
+            "bird": "Eastern Brown Pelican"
+        },
+        "Maine": {
+            "flower": "White pine cone and tassel",
+            "bird": "Chickadee"
+        },
+        "Maryland": {
+            "flower": "Black-eyed susan",
+            "bird": "Baltimore Oriole"
+        },
+        "Massachusetts": {
+            "flower": "Trailing-Arbutus",
+            "bird": "Chickadee"
+        },
+        "Michigan": {
+            "flower": "Apple Blossom",
+            "bird": "American Robin"
+        },
+        "Minnesota": {
+            "flower": "Pink and white lady's-slipper",
+            "bird": "Common Loon"
+        },
+        "Mississippi": {
+            "flower": "Magnolia",
+            "bird": "Mockingbird"
+        },
+        "Missouri": {
+            "flower": "Hawthorn",
+            "bird": "Bluebird"
+        },
+        "Montana": {
+            "flower": "Bitterroot",
+            "bird": "Western Meadowlark"
+        },
+        "Nebraska": {
+            "flower": "Goldenrod",
+            "bird": "Western Meadowlark"
+        },
+        "Nevada": {
+            "flower": "Sagebrush",
+            "bird": "Mountain Bluebird"
+        },
+        "NewHampshire": {
+            "flower": "Purple lilac",
+            "bird": "Purple Finch"
+        },
+        "NewJersey": {
+            "flower": "Violet",
+            "bird": "Eastern Goldfinch"
+        },
+        "NewMexico": {
+            "flower": "Yucca flower",
+            "bird": "Roadrunner"
+        },
+        "NewYork": {
+            "flower": "Rose",
+            "bird": "Bluebird"
+        },
+        "NorthCarolina": {
+            "flower": "American Dogwood",
+            "bird": "Cardinal"
+        },
+        "NorthDakota": {
+            "flower": "Wild Prairie Rose",
+            "bird": "Western Meadowlark"
+        },
+        "Ohio": {
+            "flower": "Scarlet Carnation",
+            "bird": "Cardinal"
+        },
+        "Oklahoma": {
+            "flower": "Mistletoe",
+            "bird": "Scissor-tailed Flycatcher"
+        },
+        "Oregon": {
+            "flower": "Oregon Grape",
+            "bird": "Western Meadowlark"
+        },
+        "Pennsylvania": {
+            "flower": "Mountain Laurel",
+            "bird": "Ruffed Grouse"
+        },
+        "RhodeIsland": {
+            "flower": "Violet",
+            "bird": "Rhode Island Red"
+        },
+        "SouthCarolina": {
+            "flower": "Yellow Jessamine",
+            "bird": "Great Carolina Wren"
+        },
+        "SouthDakota": {
+            "flower": "Pasque Flower",
+            "bird": "Ring-necked Pheasant"
+        },
+        "Tennessee": {
+            "flower": "Iris",
+            "bird": "Mockingbird"
+        },
+        "Texas": {
+            "flower": "Bluebonnet",
+            "bird": "Mockingbird"
+        },
+        "Utah": {
+            "flower": "Sego lily",
+            "bird": "Common American Gull"
+        },
+        "Vermont": {
+            "flower": "Red Clover",
+            "bird": "Hermit Thrush"
+        },
+        "Virginia": {
+            "flower": "American Dogwood",
+            "bird": "Cardinal"
+        },
+        "Washington": {
+            "flower": "Coast Rhododendron",
+            "bird": "Willow Goldfinch"
+        },
+        "WestVirginia": {
+            "flower": "Rhododendron",
+            "bird": "Cardinal"
+        },
+        "Wisconsin": {
+            "flower": "Wood Violet",
+            "bird": "Robin"
+        },
+        "Wyoming": {
+            "flower": "Indian Paintbrush",
+            "bird": "Western Meadowlark"
+        }
+    }
